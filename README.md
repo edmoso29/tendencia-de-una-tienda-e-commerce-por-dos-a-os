@@ -12,7 +12,7 @@ Analisis de Datos
 -   Unión en uno sólo por SKU
 -   Revisión y corrección de formato adecuado para las columnas.
 -   Eliminación de filas de totales que no eran requeridas y generaban ruido.
-- Se generó un grafico de barras que permite observar todos los productos vendidos en dos años, para esto también se habilitaron filtros por SKU y mes en toda la página.
+- Se generó un gráfico de barras que permite observar todos los productos vendidos en dos años, para esto también se habilitaron filtros por SKU y mes en toda la página.
 - También se generó una tabla dinámica que permite observar numéricamente las ventas, de igual modo con filtros por SKU y mes.
 
 Resultados
